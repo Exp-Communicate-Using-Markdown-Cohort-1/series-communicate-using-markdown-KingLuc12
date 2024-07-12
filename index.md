@@ -7,3 +7,8 @@ a
 $ reboot
 Re-booting system...
 ```
+
+- [x] This box is checked!
+- [x] This item is also checked.
+- [ ] This item is not complete
+- [ ] This is a test
